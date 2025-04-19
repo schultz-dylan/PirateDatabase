@@ -6,7 +6,7 @@ import GUI.MainPage;
 
 public class Driver {
     public static void main(String[] args) {
-    	/*
+    	
         EventQueue.invokeLater(() -> {
             try {
                 JFrame frame = new MainPage();
@@ -17,10 +17,7 @@ public class Driver {
                 e.printStackTrace();
             }
         });
-        */
+        
     	
-    	PirateDatabase pdb = new PirateDatabase();
-    	pdb.connect();
-    	pdb.disconnect();
     }
 }

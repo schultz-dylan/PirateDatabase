@@ -3,13 +3,15 @@ package Model;
 public class Ship {
 	
     private int sid;
+    private int cid;
     private String name;
     private String type;
 
     public Ship() {}
 
-    public Ship(int sid, String name, String type) {
+    public Ship(int sid, int cid, String name, String type) {
         this.sid = sid;
+        this.cid = cid;
         this.name = name;
         this.type = type;
     }
@@ -18,7 +20,9 @@ public class Ship {
     	return sid;
     }
     
-    public void setSid(int sid) { this.sid = sid; }
+    public int getCid() {
+    	return cid;
+    }
 
     public String getName() { 
     	return name;
