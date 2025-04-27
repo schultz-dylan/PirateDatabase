@@ -125,7 +125,7 @@ public class CreateShipPage extends JFrame {
         btnNewButton.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
-                // Retrieve the username and password from the form
+
                 String name = textArea.getText();
                 String type = textArea_1.getText();
                 int row = table.getSelectedRow();
@@ -146,7 +146,6 @@ public class CreateShipPage extends JFrame {
                 }
                 
                 
-                // Create an instance of your DatabaseYMCA
                 PirateDatabase db = new PirateDatabase();
                 
                 try {
@@ -188,7 +187,6 @@ public class CreateShipPage extends JFrame {
             
             model.addColumn("Name");
             
-            // Add rows to the model
             while (rs.next()) {
                 Object[] rowData = new Object[1];
 
