@@ -1,0 +1,201 @@
+Bid,Casualties,Winner,Name,LootAmount,Location,Date
+1,10,Grimwater Gang,Battle of the Titans,$94668.33,Phantom Shoals,6/29/1784
+2,2,The Gutter Sharks,Clash of the Champions,$68168.52,Twilight Tides,3/18/1626
+3,10,The Storm Serpents,War of the Worlds,$72041.83,Leviathan’s Grave,10/20/1631
+4,9,The Black Tide,Skirmish at Sunset,$4702.65,Bloodwake Bay,6/18/1766
+5,4,The Iron Reavers,Siege of the Stronghold,$13887.25,The Drowned Isles,4/27/1662
+6,3,The Sunken Daggers,Rumble in the Jungle,$92950.58,Stormwreck Atoll,10/31/1665
+7,4,Sable Corsairs,Showdown at High Noon,$25871.40,Shattered Compass Key,12/3/1638
+8,2,Devil’s Moor Marauders,Conquest of the Kingdom,$76946.68,Blackreef Lagoon,3/2/1800
+9,5,The Broken Compass,Brawl at the Barrens,$8309.73,Hollowwave Gulf,4/5/1798
+10,2,Dead Man’s Grin,Duel in the Desert,$25004.39,Shattered Compass Key,1/2/1761
+11,7,The Phantom Corsairs,Battle of the Titans,$81958.30,Twilight Tides,11/28/1792
+12,9,Serpent’s Wake,Clash of the Champions,$27536.26,The Drowned Isles,8/2/1677
+13,4,Grimwater Gang,War of the Worlds,$56691.42,Phantom Shoals,9/28/1791
+14,8,No Quarter Company,Skirmish at Sunset,$79818.42,Blackreef Lagoon,5/8/1754
+15,7,Deadlight Corsairs,Siege of the Stronghold,$92565.13,Frostbite Strait,1/19/1677
+16,1,Ghostwake Company,Rumble in the Jungle,$59237.14,Devil’s Backbone Reef,12/2/1737
+17,8,The Siren’s Howl,Showdown at High Noon,$26181.89,Stormwreck Atoll,8/24/1750
+18,5,Cursed Horizon,Conquest of the Kingdom,$70982.14,The Cursed Channels,10/13/1787
+19,9,No Quarter Company,Brawl at the Barrens,$74153.87,Blackreef Lagoon,9/14/1748
+20,4,Redwater Marauders,Duel in the Desert,$90160.69,Blackreef Lagoon,12/5/1753
+21,3,The Shackled Souls,Battle of the Titans,$37117.10,Broken Mast Bay,12/1/1707
+22,8,The Ashen Blades,Clash of the Champions,$68931.17,Grimwater Sound,3/11/1744
+23,7,Crimson Corsairs,War of the Worlds,$32105.77,Siren’s Cove,9/27/1678
+24,2,Bloodmoon Marauders,Skirmish at Sunset,$4192.74,Whispering Tides,11/17/1628
+25,8,The Bitter Enders,Siege of the Stronghold,$47420.76,Dead Man’s Strait,8/30/1612
+26,2,The Fathomless Few,Rumble in the Jungle,$36536.74,Daggerjaw Shoals,9/16/1659
+27,8,The Saltborn Scoundrels,Showdown at High Noon,$57146.96,The Cursed Channels,6/18/1644
+28,7,Deadlight Corsairs,Conquest of the Kingdom,$73973.98,Frostbite Strait,4/15/1765
+29,10,Frostwake Fleet,Brawl at the Barrens,$87610.80,Ashen Depths,6/2/1600
+30,8,Iron Anchor Alliance,Duel in the Desert,$82790.95,Grimwater Sound,9/22/1713
+31,3,The Gutter Sharks,Battle of the Titans,$76466.33,Twilight Tides,10/21/1743
+32,5,Broken Anchor Brotherhood,Clash of the Champions,$79857.68,Phantom Shoals,11/11/1650
+33,7,Iron Anchor Alliance,War of the Worlds,$25683.11,Grimwater Sound,4/10/1747
+34,2,The Grimcurrent,Skirmish at Sunset,$86132.49,Shadowmist Isle,12/16/1772
+35,7,The Wretched Tide,Siege of the Stronghold,$34464.47,Abyssal Maw Trench,12/31/1725
+36,8,Bloodsalt Brotherhood,Rumble in the Jungle,$69260.23,Bonefire Cay,10/27/1636
+37,9,Leviathan’s Bane,Showdown at High Noon,$8588.67,Devil’s Backbone Reef,11/19/1779
+38,9,Black Powder Pact,Conquest of the Kingdom,$26905.22,Bonefire Cay,5/28/1691
+39,6,Black Coral Corsairs,Brawl at the Barrens,$57679.67,Abyssal Maw Trench,1/27/1687
+40,9,The Pale Cutlasses,Duel in the Desert,$9150.79,Dead Man’s Strait,12/26/1721
+41,2,Devil’s Backbone,Battle of the Titans,$92429.44,Bloodwake Bay,10/22/1690
+42,3,Silverwave Pirates,Clash of the Champions,$56014.87,Shrouded Reef,8/17/1618
+43,6,The Rusted Cutlasses,War of the Worlds,$68541.33,Rusted Anchor Haven,3/29/1634
+44,4,The Shadowbound,Skirmish at Sunset,$9655.75,Phantom Shoals,2/24/1705
+45,7,No Quarter Company,Siege of the Stronghold,$50901.16,Blackreef Lagoon,9/30/1651
+46,4,The Pale Cutlasses,Rumble in the Jungle,$63601.14,Dead Man’s Strait,8/3/1628
+47,6,The Bone Rats,Showdown at High Noon,$86483.16,Shipwreck Shoals,5/16/1714
+48,6,Thunderjaw Corsairs,Conquest of the Kingdom,$13006.40,Siren’s Cove,6/12/1793
+49,9,The Shadowbound,Brawl at the Barrens,$72876.98,Phantom Shoals,9/14/1751
+50,3,Blackfin Buccaneers,Duel in the Desert,$62537.19,Rusted Anchor Haven,3/2/1735
+51,10,The Ashen Blades,Battle of the Titans,$50149.12,Grimwater Sound,2/12/1642
+52,8,The Jaded Compass,Clash of the Champions,$55192.17,Wraithwater Bay,10/26/1727
+53,7,Dead Man’s Grin,War of the Worlds,$54499.60,Shattered Compass Key,4/17/1751
+54,3,The Broken Compass,Skirmish at Sunset,$78923.67,Hollowwave Gulf,5/22/1772
+55,4,The Gallows Gulls,Siege of the Stronghold,$80827.71,Shadowmist Isle,11/27/1631
+56,5,The Scarlet Wraiths,Rumble in the Jungle,$16643.80,Daggerjaw Shoals,9/5/1699
+57,6,Blackfin Buccaneers,Showdown at High Noon,$86088.36,Rusted Anchor Haven,11/22/1768
+58,1,The Black Tide,Conquest of the Kingdom,$39523.82,Bloodwake Bay,5/15/1768
+59,10,Thunderjaw Corsairs,Brawl at the Barrens,$81917.26,Siren’s Cove,12/15/1616
+60,4,The Crimson Albatross,Duel in the Desert,$72424.61,Ironwake Harbor.,6/13/1724
+61,7,The Firewater Gang,Battle of the Titans,$41866.54,Ironwake Harbor.,9/23/1651
+62,2,The Reefcursed,Clash of the Champions,$93373.40,Shrouded Reef,12/26/1601
+63,5,Shipwreck Saints,War of the Worlds,$35332.65,Stormwreck Atoll,1/31/1710
+64,8,The Graveborn,Skirmish at Sunset,$30282.50,Gallowglass Gulf,7/11/1715
+65,3,The Black Tide,Siege of the Stronghold,$55928.63,Bloodwake Bay,3/1/1709
+66,7,The Broken Compass,Rumble in the Jungle,$54531.94,Hollowwave Gulf,10/29/1750
+67,10,The Shadowbound,Showdown at High Noon,$90206.00,Phantom Shoals,2/15/1798
+68,8,The Endless Wreck,Conquest of the Kingdom,$3585.18,Shipwreck Shoals,5/28/1725
+69,6,The Coral Crows,Brawl at the Barrens,$31111.25,Bloodwake Bay,2/28/1736
+70,9,Silverwave Pirates,Duel in the Desert,$70735.13,Shrouded Reef,8/17/1644
+71,4,Thunderjaw Corsairs,Battle of the Titans,$37683.04,Siren’s Cove,7/5/1658
+72,10,The Barnacle Brotherhood,Clash of the Champions,$73024.38,Shipwreck Shoals,2/8/1709
+73,5,Silverwave Pirates,War of the Worlds,$36357.03,Shrouded Reef,7/20/1662
+74,9,The Midnight Corsairs,Skirmish at Sunset,$71185.91,Coralgrave Lagoon,8/30/1706
+75,1,The Brineborn,Siege of the Stronghold,$43026.78,Skeleton Cove,3/20/1708
+76,9,Deadwater Drifters,Rumble in the Jungle,$89379.34,The Cursed Channels,9/26/1602
+77,1,The Phantom Corsairs,Showdown at High Noon,$45281.85,Twilight Tides,3/13/1697
+78,9,Deadlight Corsairs,Conquest of the Kingdom,$38058.01,Frostbite Strait,1/21/1622
+79,6,Dead Man’s Grin,Brawl at the Barrens,$93756.58,Shattered Compass Key,2/7/1789
+80,4,Lanternjaw Buccaneers,Duel in the Desert,$74317.66,Devil’s Backbone Reef,5/19/1709
+81,7,The Golden Kraken,Battle of the Titans,$98721.09,Frostbite Strait,6/26/1611
+82,6,The Gutter Sharks,Clash of the Champions,$39532.26,Twilight Tides,12/22/1773
+83,3,Iron Anchor Alliance,War of the Worlds,$89588.99,Grimwater Sound,8/7/1665
+84,3,Cracked Skull Marauders,Skirmish at Sunset,$72555.61,Coralgrave Lagoon,8/18/1709
+85,5,The Jaded Compass,Siege of the Stronghold,$44159.37,Wraithwater Bay,3/4/1660
+86,8,Thunderjaw Corsairs,Rumble in the Jungle,$56809.00,Siren’s Cove,1/16/1684
+87,1,Black Powder Pact,Showdown at High Noon,$65105.09,Bonefire Cay,10/29/1613
+88,3,Leviathan’s Bane,Conquest of the Kingdom,$36533.26,Devil’s Backbone Reef,12/22/1729
+89,9,The Fathomless Few,Brawl at the Barrens,$57086.97,Daggerjaw Shoals,5/9/1653
+90,7,The Reefcursed,Duel in the Desert,$84733.93,Shrouded Reef,5/24/1656
+91,8,The Ashen Kraken,Battle of the Titans,$40574.75,Rusted Anchor Haven,3/25/1628
+92,2,The Twisted Compass,Clash of the Champions,$59035.09,Ashen Depths,12/3/1768
+93,10,The Rusted Cutlasses,War of the Worlds,$71935.65,Rusted Anchor Haven,1/15/1669
+94,8,The Scarlet Wraiths,Skirmish at Sunset,$61108.43,Daggerjaw Shoals,4/30/1782
+95,3,The Hollow Jollys,Siege of the Stronghold,$40897.02,Broken Mast Bay,12/30/1625
+96,8,Cracked Skull Marauders,Rumble in the Jungle,$39926.75,Coralgrave Lagoon,10/7/1771
+97,1,Leviathan’s Bane,Showdown at High Noon,$11019.33,Devil’s Backbone Reef,5/7/1778
+98,4,The Broken Compass,Conquest of the Kingdom,$5540.98,Hollowwave Gulf,9/22/1663
+99,1,The Scarlet Wraiths,Brawl at the Barrens,$53222.47,Daggerjaw Shoals,3/13/1753
+100,7,The Shackled Souls,Duel in the Desert,$2628.31,Broken Mast Bay,1/9/1703
+101,4,Deadlight Corsairs,Battle of the Titans,$9878.53,Frostbite Strait,1/29/1640
+102,2,Coralblade Clan,Clash of the Champions,$92801.72,Abyssal Maw Trench,8/14/1775
+103,6,The Pale Cutlasses,War of the Worlds,$5229.29,Dead Man’s Strait,8/11/1638
+104,2,No Quarter Company,Skirmish at Sunset,$50178.88,Blackreef Lagoon,12/13/1664
+105,4,Cursed Horizon,Siege of the Stronghold,$45676.14,The Cursed Channels,11/30/1673
+106,3,Shattered Mast Marauders,Rumble in the Jungle,$54309.22,Shrouded Reef,7/28/1663
+107,7,Devil’s Moor Marauders,Showdown at High Noon,$17860.37,Blackreef Lagoon,4/4/1689
+108,3,The Tempest Wolves,Conquest of the Kingdom,$3468.26,Leviathan’s Grave,5/16/1640
+109,8,Thunderjaw Corsairs,Brawl at the Barrens,$58368.61,Siren’s Cove,2/28/1696
+110,9,Redwater Marauders,Duel in the Desert,$40416.87,Blackreef Lagoon,2/21/1790
+111,2,The Gutter Sharks,Battle of the Titans,$14365.61,Twilight Tides,6/4/1740
+112,9,Ghostwake Company,Clash of the Champions,$30043.49,Devil’s Backbone Reef,7/4/1641
+113,4,The Daggered Sirens,War of the Worlds,$8568.62,Siren’s Cove,10/7/1637
+114,9,Black Coral Corsairs,Skirmish at Sunset,$57887.75,Abyssal Maw Trench,10/27/1676
+115,2,Dead Man’s Grin,Siege of the Stronghold,$67657.80,Shattered Compass Key,12/19/1603
+116,5,The Sunken Scepters,Rumble in the Jungle,$57487.06,Gallowglass Gulf,7/4/1699
+117,2,Plaguewake Crew,Showdown at High Noon,$34754.19,Broken Mast Bay,7/17/1693
+118,10,The Endless Wreck,Conquest of the Kingdom,$66737.57,Shipwreck Shoals,3/24/1610
+119,9,The Shadowbound,Brawl at the Barrens,$18451.30,Phantom Shoals,4/7/1604
+120,2,Broken Anchor Brotherhood,Duel in the Desert,$31768.72,Phantom Shoals,6/13/1626
+121,9,The Brineborn,Battle of the Titans,$99077.16,Skeleton Cove,2/8/1618
+122,4,The Daggered Sirens,Clash of the Champions,$20724.37,Siren’s Cove,1/18/1743
+123,10,The Shadowbound,War of the Worlds,$65667.72,Phantom Shoals,9/16/1642
+124,10,Plaguewake Crew,Skirmish at Sunset,$25653.27,Broken Mast Bay,6/5/1766
+125,1,The Howling Horizon,Siege of the Stronghold,$96968.69,Siren’s Cove,7/28/1756
+126,4,The Graveborn,Rumble in the Jungle,$57950.57,Gallowglass Gulf,2/28/1669
+127,3,The Iron Reavers,Showdown at High Noon,$78556.96,The Drowned Isles,10/25/1632
+128,4,The Silent Maelstrom,Conquest of the Kingdom,$85131.06,Twilight Tides,7/18/1795
+129,8,Ghostwake Company,Brawl at the Barrens,$70207.57,Devil’s Backbone Reef,10/13/1651
+130,2,Grimflag Corsairs,Duel in the Desert,$16108.31,Whispering Tides,8/20/1712
+131,10,Deadwater Drifters,Battle of the Titans,$31652.36,The Cursed Channels,4/8/1786
+132,9,Thunderjaw Corsairs,Clash of the Champions,$50505.19,Siren’s Cove,9/7/1600
+133,3,Shipwreck Saints,War of the Worlds,$33014.73,Stormwreck Atoll,6/12/1620
+134,8,The Endless Wreck,Skirmish at Sunset,$13046.89,Shipwreck Shoals,5/20/1759
+135,1,No Quarter Company,Siege of the Stronghold,$90477.66,Blackreef Lagoon,4/27/1642
+136,7,Broken Skull Buccaneers,Rumble in the Jungle,$11397.81,Whispering Tides,5/28/1646
+137,2,Serpent’s Wake,Showdown at High Noon,$25892.66,The Drowned Isles,10/23/1629
+138,10,Grimflag Corsairs,Conquest of the Kingdom,$30434.20,Whispering Tides,11/21/1612
+139,4,Salty Revenants,Brawl at the Barrens,$76509.81,Shadowmist Isle,2/21/1667
+140,4,The Daggered Sirens,Duel in the Desert,$57195.56,Siren’s Cove,3/25/1664
+141,9,The Broken Compass,Battle of the Titans,$3133.11,Hollowwave Gulf,10/22/1617
+142,6,The Gutter Sharks,Clash of the Champions,$78170.14,Twilight Tides,7/2/1679
+143,2,The Phantom Corsairs,War of the Worlds,$46736.91,Twilight Tides,10/31/1648
+144,3,Devil’s Moor Marauders,Skirmish at Sunset,$79644.53,Blackreef Lagoon,3/26/1696
+145,2,The Pale Cutlasses,Siege of the Stronghold,$31438.73,Dead Man’s Strait,4/5/1693
+146,2,The Voodoo Vultures,Rumble in the Jungle,$95769.50,Skeleton Cove,10/6/1681
+147,8,Death’s Toll,Showdown at High Noon,$40855.66,Shattered Compass Key,10/29/1620
+148,7,The Midnight Corsairs,Conquest of the Kingdom,$88208.00,Coralgrave Lagoon,10/25/1751
+149,5,The Barnacle Brotherhood,Brawl at the Barrens,$46357.13,Shipwreck Shoals,3/1/1772
+150,4,Blood Reef Brotherhood,Duel in the Desert,$26494.16,Bonefire Cay,7/13/1739
+151,3,Grimwater Gang,Battle of the Titans,$94426.80,Phantom Shoals,1/19/1612
+152,2,The Phantom Corsairs,Clash of the Champions,$74306.75,Twilight Tides,8/25/1618
+153,8,The Coral Crows,War of the Worlds,$6264.86,Bloodwake Bay,11/16/1757
+154,10,The Sunken Crossbones,Skirmish at Sunset,$71658.75,Dead Man’s Strait,12/27/1767
+155,3,Ironfang Buccaneers,Siege of the Stronghold,$17277.36,Whispering Tides,9/20/1716
+156,7,The Barnacle Brotherhood,Rumble in the Jungle,$30690.30,Shipwreck Shoals,6/2/1617
+157,7,Death’s Toll,Showdown at High Noon,$7404.59,Shattered Compass Key,1/27/1651
+158,5,Redwater Marauders,Conquest of the Kingdom,$83199.21,Blackreef Lagoon,6/14/1621
+159,3,Serpent’s Wake,Brawl at the Barrens,$27734.08,The Drowned Isles,2/12/1620
+160,5,Howling Skulls,Duel in the Desert,$56948.13,Wraithwater Bay,8/18/1669
+161,7,Ebonwake Company,Battle of the Titans,$86174.06,Stormwreck Atoll,8/7/1711
+162,2,The Graveborn,Clash of the Champions,$3329.15,Gallowglass Gulf,7/24/1710
+163,2,The Ashen Kraken,War of the Worlds,$83469.80,Rusted Anchor Haven,10/19/1646
+164,10,Blood Reef Brotherhood,Skirmish at Sunset,$80474.52,Bonefire Cay,2/27/1709
+165,4,Grimwater Gang,Siege of the Stronghold,$3607.64,Phantom Shoals,1/26/1679
+166,9,Death’s Toll,Rumble in the Jungle,$22107.40,Shattered Compass Key,6/23/1696
+167,2,Ghostwake Company,Showdown at High Noon,$51267.78,Devil’s Backbone Reef,3/23/1646
+168,2,The Phantom Corsairs,Conquest of the Kingdom,$60843.99,Twilight Tides,12/7/1698
+169,7,Iron Anchor Alliance,Brawl at the Barrens,$48211.55,Grimwater Sound,12/10/1683
+170,5,Bloodsalt Brotherhood,Duel in the Desert,$83720.77,Bonefire Cay,4/2/1782
+171,4,The Bone Rats,Battle of the Titans,$62739.85,Shipwreck Shoals,1/6/1726
+172,5,The Scourged Sails,Clash of the Champions,$59457.95,Frostbite Strait,4/12/1656
+173,7,The Shackled Souls,War of the Worlds,$69152.64,Broken Mast Bay,3/4/1734
+174,2,No Quarter Company,Skirmish at Sunset,$7032.81,Blackreef Lagoon,7/21/1792
+175,5,Howling Skulls,Siege of the Stronghold,$15378.34,Wraithwater Bay,4/29/1791
+176,10,Grimflag Corsairs,Rumble in the Jungle,$14118.33,Whispering Tides,11/2/1672
+177,3,Dead Man’s Grin,Showdown at High Noon,$84892.68,Shattered Compass Key,2/21/1704
+178,3,The Endless Wreck,Conquest of the Kingdom,$33359.43,Shipwreck Shoals,1/2/1613
+179,10,Redwater Marauders,Brawl at the Barrens,$6157.80,Blackreef Lagoon,4/28/1769
+180,7,The Howling Horizon,Duel in the Desert,$98640.22,Siren’s Cove,1/13/1791
+181,3,The Grimcurrent,Battle of the Titans,$7469.76,Shadowmist Isle,8/8/1780
+182,1,The Sea Scourge,Clash of the Champions,$16078.05,Leviathan’s Grave,2/13/1752
+183,5,The Hollow Jollys,War of the Worlds,$3279.52,Broken Mast Bay,5/11/1610
+184,6,Black Coral Corsairs,Skirmish at Sunset,$78832.30,Abyssal Maw Trench,2/22/1680
+185,7,Leviathan’s Bane,Siege of the Stronghold,$10766.51,Devil’s Backbone Reef,8/10/1636
+186,3,Ironfang Buccaneers,Rumble in the Jungle,$98041.62,Whispering Tides,6/1/1799
+187,3,Saltfang Buccaneers,Showdown at High Noon,$51734.84,Skeleton Cove,6/29/1692
+188,8,Shipwreck Saints,Conquest of the Kingdom,$82444.07,Stormwreck Atoll,12/21/1614
+189,4,The Sunken Scepters,Brawl at the Barrens,$72157.96,Gallowglass Gulf,1/29/1636
+190,6,The Midnight Corsairs,Duel in the Desert,$20720.56,Coralgrave Lagoon,1/25/1689
+191,8,The Wretched Tide,Battle of the Titans,$41100.50,Abyssal Maw Trench,11/20/1766
+192,6,Devil’s Moor Marauders,Clash of the Champions,$60234.24,Blackreef Lagoon,5/29/1730
+193,1,The Iron Reavers,War of the Worlds,$41191.93,The Drowned Isles,10/31/1708
+194,2,The Jaded Compass,Skirmish at Sunset,$53788.79,Wraithwater Bay,9/4/1610
+195,5,The Barnacle Brotherhood,Siege of the Stronghold,$18594.61,Shipwreck Shoals,1/18/1615
+196,3,Ebonwake Company,Rumble in the Jungle,$10362.13,Stormwreck Atoll,6/13/1717
+197,6,No Quarter Company,Showdown at High Noon,$81373.44,Blackreef Lagoon,7/18/1691
+198,2,The Phantom Corsairs,Conquest of the Kingdom,$60377.16,Twilight Tides,6/22/1775
+199,1,Sable Corsairs,Brawl at the Barrens,$15474.90,Shattered Compass Key,4/28/1690
+200,10,The Scarlet Wraiths,Duel in the Desert,$21604.35,Daggerjaw Shoals,5/26/1617

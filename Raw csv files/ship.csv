@@ -1,0 +1,501 @@
+Sid,Name,Type
+1,Cursed Riptide,Galleon
+2,The Duskwind,Brigantine
+3,Daggerfin,Frigate
+4,The Scarlet Sinker,Sloop
+5,Siren’s Teeth,Barque
+6,Black Sail’s Oath,Sloop
+7,Ghosttide,Frigate
+8,Cursed Riptide,Sloop
+9,Deadlight,Brigantine
+10,Ghosttide,Brigantine
+11,Silverfin,Brigantine
+12,Coral Reaper,Frigate
+13,Seafoam Marauder,Barque
+14,Dead Man’s Fancy,Galleon
+15,Ebon Mariner,Sloop
+16,Red Warden,Frigate
+17,Riftbreaker,Frigate
+18,Sunken Eclipse,Brigantine
+19,Marrow's End,Brigantine
+20,Drowned Dreamer,Galleon
+21,Widow’s Fang,Brigantine
+22,The Scarlet Tempest,Brigantine
+23,Deadstar Corsair,Sloop
+24,Leviathan’s Howl,Galleon
+25,Shattered Fortune,Sloop
+26,Specter’s Wake,Frigate
+27,Darkwater Serpent,Sloop
+28,The Ashen Star,Barque
+29,Shattered Fortune,Sloop
+30,Cracked Compass,Galleon
+31,Lantern’s Curse,Galleon
+32,The Silent Kraken,Frigate
+33,The Sinking Specter,Brigantine
+34,Silent Torrent,Barque
+35,Bloodmoon Brig,Sloop
+36,The Sinking Specter,Sloop
+37,Frostbite Raider,Frigate
+38,Frost Siren,Galleon
+39,The Whispering Skull,Barque
+40,Deadlight,Galleon
+41,Rotfin Corsair,Barque
+42,The Ashen Revenant,Galleon
+43,Marrow's End,Barque
+44,Grimward,Brigantine
+45,Leviathan’s Grave,Brigantine
+46,The Rusted Saber,Galleon
+47,Gallows Anchor,Brigantine
+48,The Bleeding Horizon,Brigantine
+49,Stormbreaker,Sloop
+50,Abysswatcher,Frigate
+51,Blight of the Deep,Galleon
+52,Burning Marlin,Brigantine
+53,Devil’s Crest,Sloop
+54,Ebon Mariner,Frigate
+55,Voodoo Pearl,Frigate
+56,The Ebon Drake,Sloop
+57,Grimward,Galleon
+58,Ironfang Warden,Frigate
+59,Silent Revenant,Frigate
+60,Starless Phantom,Sloop
+61,Devil’s Mistress,Frigate
+62,Bonegale,Galleon
+63,Hollow Warden,Galleon
+64,Rotborn Raider,Barque
+65,The Forgotten Raider,Barque
+66,Frostshadow,Barque
+67,The Whispering Skull,Sloop
+68,The Silent Kraken,Frigate
+69,The Blighted Jewel,Barque
+70,Leviathan’s Roar,Frigate
+71,The Coral Phantom,Frigate
+72,Sable Corsair,Sloop
+73,The Bleeding Horizon,Sloop
+74,Widow’s Fang,Brigantine
+75,Saltscourge,Brigantine
+76,Leviathan’s Roar,Brigantine
+77,Gravecurrent,Barque
+78,Crimsontide Raider,Frigate
+79,Vulture’s Grin,Galleon
+80,The Scarlet Sinker,Barque
+81,The Rusted Saber,Galleon
+82,Hollow Warden,Frigate
+83,The Shrieking Siren,Sloop
+84,Deadlight,Sloop
+85,The Shrieking Siren,Galleon
+86,Broken Trident,Brigantine
+87,The Howling Gale,Sloop
+88,The Whispering Skull,Barque
+89,Broken Marlin,Barque
+90,Bleeding Compass,Barque
+91,Midnight Crown,Brigantine
+92,Red Skull Warden,Frigate
+93,Cursed Skull,Frigate
+94,Rustscale Raider,Frigate
+95,Thundercaller,Sloop
+96,Bloodwhale,Brigantine
+97,The Maelstrom’s Kiss,Sloop
+98,Grim Haven,Brigantine
+99,Starless Phantom,Barque
+100,Siren’s Teeth,Barque
+101,Drowned Fury,Frigate
+102,Silentbone,Brigantine
+103,Boneharbor Brig,Frigate
+104,Phantom’s Wake,Barque
+105,Dragon's Maw,Sloop
+106,Shattered Fortune,Galleon
+107,Blightfin,Sloop
+108,Seabane Corsair,Barque
+109,Sunken Eclipse,Frigate
+110,Sable Wraith,Barque
+111,Deathwake,Sloop
+112,The Ashen Star,Barque
+113,Broken Wing,Brigantine
+114,Cinderwake,Brigantine
+115,The Maelstrom’s Kiss,Barque
+116,Death Shark,Sloop
+117,Sunken Fury,Frigate
+118,The Blighted Jewel,Frigate
+119,Sable Corsair,Sloop
+120,Pale Lantern,Sloop
+121,The Shrieking Siren,Frigate
+122,Rottentide Raider,Frigate
+123,Deepstar Marauder,Sloop
+124,Drowned Wraith,Galleon
+125,Siren’s Vengeance,Sloop
+126,Sunken Fury,Galleon
+127,Sunken Fury,Galleon
+128,Cursed Riptide,Brigantine
+129,Rotten Jewel,Barque
+130,The Sunken Star,Galleon
+131,Sea Serpent’s Coil,Sloop
+132,Seafoam Marauder,Frigate
+133,Phantom’s Wake,Galleon
+134,Silent Torrent,Brigantine
+135,Dragon's Maw,Galleon
+136,Deathcurrent,Sloop
+137,Abysswalker,Brigantine
+138,Frostshadow,Galleon
+139,Broken Wing,Frigate
+140,Dead Man’s Fancy,Sloop
+141,Voodoo Pearl,Brigantine
+142,Darktide,Galleon
+143,Bonegale,Barque
+144,Rustfang,Sloop
+145,The Rotten Crown,Sloop
+146,Stormborn Revenant,Brigantine
+147,Leviathan’s Roar,Frigate
+148,Bloodsail Raider,Barque
+149,Saltdrinker,Barque
+150,Leviathan’s Howl,Sloop
+151,Cursed Skull,Frigate
+152,Ghosttide,Frigate
+153,Deepstar Marauder,Frigate
+154,Forsaken Spirit,Frigate
+155,Abysswalker,Barque
+156,The Hollow Marlin,Barque
+157,Brinewolf,Frigate
+158,The Ashen Star,Sloop
+159,Starless Phantom,Galleon
+160,Cursed Marlin,Brigantine
+161,Starlit Marauder,Brigantine
+162,Sable Corsair,Sloop
+163,Broken Compass,Brigantine
+164,Bloodgale,Galleon
+165,The Sinking Specter,Galleon
+166,Blackwater Wraith,Frigate
+167,Grimdrift,Barque
+168,Wailing Horizon,Galleon
+169,Silent Torrent,Brigantine
+170,Stormbreaker,Barque
+171,Blight of the Deep,Barque
+172,Ghostwake,Sloop
+173,The Whispering Skull,Galleon
+174,Frost Siren,Sloop
+175,Voodoo Pearl,Barque
+176,Wraithfin,Barque
+177,Voodoo Pearl,Barque
+178,Bloodharbor,Brigantine
+179,Frost Siren,Brigantine
+180,Riftbreaker,Frigate
+181,Wraithfin,Sloop
+182,Pale Leviathan,Barque
+183,Tempest Queen,Barque
+184,The Maelstrom’s Kiss,Barque
+185,Rotborn Raider,Sloop
+186,Bleeding Compass,Brigantine
+187,Rustscale Raider,Galleon
+188,Frostbite Raider,Galleon
+189,The Bleeding Tide,Brigantine
+190,Specter’s Wake,Barque
+191,Broken Marlin,Frigate
+192,The Drowned Maiden,Frigate
+193,Silent Torrent,Galleon
+194,Death's Embrace,Brigantine
+195,Wretched Serpent,Frigate
+196,The Grim Albatross,Galleon
+197,Wretched Serpent,Sloop
+198,Wraithfin,Frigate
+199,Bitter Current,Galleon
+200,Twilight Corsair,Frigate
+201,Frostbite Raider,Brigantine
+202,The Bleeding Tide,Frigate
+203,Silent Revenant,Brigantine
+204,The Silent Dagger,Brigantine
+205,Bloodsail Raider,Frigate
+206,Ironfang Warden,Sloop
+207,Rotten Jewel,Barque
+208,Ghosttide,Brigantine
+209,Drowned Dreamer,Galleon
+210,The Rusted Saber,Brigantine
+211,Serpent’s Bane,Frigate
+212,Blackwater Wraith,Sloop
+213,Voodoo Pearl,Sloop
+214,Shattered Fortune,Frigate
+215,Death Shark,Sloop
+216,Seafoam Marauder,Barque
+217,Salted Doom,Galleon
+218,Siren’s Teeth,Barque
+219,The Hollow Cross,Sloop
+220,Stormborn Revenant,Sloop
+221,Black Reef Raider,Barque
+222,Cursed Skull,Galleon
+223,Devil’s Mistress,Brigantine
+224,Thundertide,Brigantine
+225,Gallows Anchor,Frigate
+226,Kraken’s Wrath,Galleon
+227,Rottentide Raider,Barque
+228,The Whispering Skull,Barque
+229,The Howling Gale,Galleon
+230,Pale Leviathan,Barque
+231,Forsaken Spirit,Brigantine
+232,Bloodmoon Brig,Sloop
+233,Darkmoon Marauder,Galleon
+234,Shattered Fortune,Galleon
+235,Thunder Serpent,Frigate
+236,Bloodwhale,Galleon
+237,Frostbite Raider,Barque
+238,Death Shark,Barque
+239,Cracked Skull,Sloop
+240,Silentbone,Galleon
+241,The Hollow Cross,Barque
+242,Hollow Warden,Sloop
+243,Darkmoon Marauder,Brigantine
+244,Coral Reaper,Galleon
+245,Iron Keel,Barque
+246,Broken Wing,Sloop
+247,Riptide Raider,Frigate
+248,Salted Doom,Barque
+249,Abysswalker,Frigate
+250,The Sunken Star,Frigate
+251,Dragon's Maw,Galleon
+252,Abysswalker,Barque
+253,The Sable Tempest,Brigantine
+254,Pale Lantern,Galleon
+255,Darkmoon Marauder,Galleon
+256,The Scourge,Barque
+257,Bleeding Compass,Galleon
+258,Blackblood Mariner,Frigate
+259,The Siren’s Blight,Frigate
+260,Darkmoon Marauder,Galleon
+261,The Gallows Ghost,Barque
+262,Grimdrift,Sloop
+263,Siren’s Teeth,Frigate
+264,Wretched Corsair,Brigantine
+265,Cursed Skull,Brigantine
+266,Shipbreaker’s Promise,Frigate
+267,Devil’s Crest,Barque
+268,Pale Shark,Brigantine
+269,Dragon's Maw,Sloop
+270,Night's Embrace,Galleon
+271,Bloodwhale,Barque
+272,Frostshadow,Frigate
+273,Rustscale Raider,Barque
+274,Shadebreaker,Brigantine
+275,Pale Shark,Brigantine
+276,Broken Trident,Sloop
+277,Bloodgale,Brigantine
+278,The Ashen Star,Sloop
+279,Bloodwake Marauder,Barque
+280,The Ashen Revenant,Brigantine
+281,Iron Marlin,Brigantine
+282,Salted Doom,Galleon
+283,The Sable Tempest,Galleon
+284,Darkmoon Marauder,Sloop
+285,Bleeding Compass,Barque
+286,Phantom’s Wake,Galleon
+287,Tidemourn,Frigate
+288,Shadebreaker,Frigate
+289,Starlit Marauder,Frigate
+290,Rustfang,Frigate
+291,Hollow Star,Barque
+292,Bloodgale,Frigate
+293,Silent Revenant,Brigantine
+294,Cursed Riptide,Galleon
+295,Ebon Mariner,Barque
+296,The Shattered Wave,Brigantine
+297,Specter’s Wake,Barque
+298,Deepstar Marauder,Barque
+299,Blightfin,Frigate
+300,Bitter Current,Sloop
+301,Deadcurrent,Brigantine
+302,Bloodmoon Brig,Galleon
+303,Broken Lantern,Galleon
+304,The Gallows Ghost,Sloop
+305,Kraken’s Wrath,Galleon
+306,Abyssal Fang,Frigate
+307,Thundercaller,Sloop
+308,Death Shark,Barque
+309,Red Warden,Sloop
+310,Siren’s Vengeance,Sloop
+311,Boneharbor Brig,Sloop
+312,Pale Blade,Galleon
+313,The Grim Albatross,Barque
+314,Rotten Jewel,Frigate
+315,Stormchaser,Brigantine
+316,The Rusted Saber,Sloop
+317,Midnight Crown,Sloop
+318,Saltscourge,Barque
+319,The Whispering Skull,Galleon
+320,The Silent Dagger,Frigate
+321,Dragon's Maw,Brigantine
+322,Nightshade’s Fury,Brigantine
+323,Seabane Corsair,Galleon
+324,Gravewake,Barque
+325,Forsaken Spirit,Barque
+326,The Whispering Skull,Barque
+327,Bloodsail Raider,Brigantine
+328,Blight of the Deep,Galleon
+329,Hollow Star,Brigantine
+330,Shipbreaker’s Promise,Frigate
+331,Iron Marlin,Barque
+332,Frost Siren,Brigantine
+333,Bloodsail Raider,Frigate
+334,Wretched Corsair,Galleon
+335,Marrow's End,Barque
+336,Marrow's End,Barque
+337,Saltblood,Barque
+338,Rotfin Corsair,Frigate
+339,Phantom’s Wake,Barque
+340,Rustfang,Frigate
+341,Broken Marlin,Brigantine
+342,The Ashen Mistress,Barque
+343,Boneharbor Brig,Brigantine
+344,Wretched Serpent,Barque
+345,Tidemourn,Barque
+346,Iron Marlin,Galleon
+347,Nightshade’s Fury,Barque
+348,Iron Marlin,Sloop
+349,Bonegale,Sloop
+350,Bonegale,Frigate
+351,Gravewake,Galleon
+352,Twisted Compass,Barque
+353,Crimsontide Raider,Barque
+354,Deadwave Brig,Barque
+355,Ironfang Warden,Sloop
+356,Thunder Serpent,Brigantine
+357,Ironfang Warden,Frigate
+358,Siren’s Teeth,Barque
+359,Stormbreaker,Sloop
+360,Deepstar Marauder,Brigantine
+361,Scourgewind,Sloop
+362,Sea Wolf,Brigantine
+363,Sea Phantom,Frigate
+364,Deadstar Corsair,Barque
+365,Ironfang Warden,Galleon
+366,Brinewolf,Brigantine
+367,Saltdrinker,Sloop
+368,Gravecurrent,Brigantine
+369,Sunken Fury,Frigate
+370,Cinderwake,Brigantine
+371,Deadwave Brig,Sloop
+372,Coral Crown,Sloop
+373,Deadwave Brig,Brigantine
+374,Leviathan’s Grave,Sloop
+375,The Ashen Mistress,Galleon
+376,Tidemourn,Frigate
+377,Widow’s Fang,Barque
+378,Darkwater Serpent,Galleon
+379,The Shrieking Siren,Brigantine
+380,The Duskwind,Frigate
+381,Bloodsail Raider,Barque
+382,Silverfin,Sloop
+383,Shattered Fortune,Brigantine
+384,Sunken Eclipse,Galleon
+385,Scourgewind,Frigate
+386,The Whispering Skull,Galleon
+387,Dragon's Maw,Barque
+388,The Sinking Specter,Galleon
+389,Frost Siren,Frigate
+390,Maelstrom’s Curse,Galleon
+391,Black Sail’s Oath,Galleon
+392,Twisted Compass,Galleon
+393,Deathcurrent,Sloop
+394,Saltscourge,Sloop
+395,The Ashen Revenant,Brigantine
+396,Sunken Sabers,Barque
+397,Cursed Drake,Sloop
+398,The Bleeding Tide,Brigantine
+399,Thunder Serpent,Frigate
+400,Saltscourge,Barque
+401,Bloodmoon Brig,Brigantine
+402,Forsaken Spirit,Brigantine
+403,Phantom’s Wake,Sloop
+404,Dead Man’s Fancy,Frigate
+405,Boneharbor Brig,Galleon
+406,Kraken's Doom,Barque
+407,Shadeclaw Raider,Sloop
+408,The Crimson Reaper,Brigantine
+409,Darkwater Serpent,Brigantine
+410,Stormchaser,Brigantine
+411,Dead Man’s Fancy,Frigate
+412,Cursed Skull,Barque
+413,Grimward,Brigantine
+414,Bloodharbor,Brigantine
+415,Deadcurrent,Brigantine
+416,Iron Keel,Sloop
+417,Red Leviathan,Galleon
+418,Bloodmoon Brig,Brigantine
+419,The Scarlet Sinker,Galleon
+420,Shadebreaker,Brigantine
+421,Sea Wolf,Frigate
+422,Sea Phantom,Frigate
+423,Bloodgale,Brigantine
+424,Gravecurrent,Barque
+425,The Shrieking Siren,Barque
+426,Rotten Jewel,Sloop
+427,The Sinking Specter,Brigantine
+428,Deadwave Brig,Sloop
+429,Bleeding Compass,Frigate
+430,Sunken Sabers,Frigate
+431,Shadebreaker,Galleon
+432,Thunderjaw,Brigantine
+433,Hollowwake,Brigantine
+434,Bloodgale,Brigantine
+435,Cinderwake,Brigantine
+436,Darkwater Serpent,Sloop
+437,Deadstar Corsair,Barque
+438,The Ashen Revenant,Galleon
+439,Phantom’s Oath,Frigate
+440,Darkmoon Marauder,Barque
+441,Silent Revenant,Barque
+442,Serpent’s Bane,Brigantine
+443,Ghosttide,Barque
+444,Silent Torrent,Frigate
+445,Shadebreaker,Sloop
+446,Bitter Current,Galleon
+447,Voodoo Pearl,Frigate
+448,The Siren’s Blight,Frigate
+449,Burning Marlin,Frigate
+450,Black Siren,Frigate
+451,Sunken Fury,Brigantine
+452,Ebon Mariner,Galleon
+453,Redwake,Barque
+454,Phantom’s Wake,Sloop
+455,Grimdrift,Frigate
+456,Grim Haven,Frigate
+457,Lantern’s Curse,Frigate
+458,Sunken Eclipse,Sloop
+459,Darkwater Serpent,Galleon
+460,Ironfang Warden,Barque
+461,Thunder Serpent,Sloop
+462,The Gallows Ghost,Frigate
+463,Ghostwake,Sloop
+464,Pale Shark,Sloop
+465,Rotten Jewel,Sloop
+466,Night's Embrace,Galleon
+467,The Silent Kraken,Barque
+468,Frostfang,Brigantine
+469,Stormborn Revenant,Barque
+470,Iron Blood,Barque
+471,Bonegale,Barque
+472,Stormbreaker,Galleon
+473,Black Sail’s Oath,Frigate
+474,Frost Siren,Barque
+475,Broken Compass,Brigantine
+476,Red Skull Warden,Sloop
+477,Riptide Raider,Sloop
+478,Stormchaser,Frigate
+479,Wailing Widow,Sloop
+480,Broken Compass,Frigate
+481,Abyssal Fang,Brigantine
+482,Bonegale,Brigantine
+483,Iron Blood,Brigantine
+484,Ebon Mariner,Sloop
+485,The Crimson Reaper,Barque
+486,The Drowned Maiden,Frigate
+487,Red Leviathan,Sloop
+488,Death Shark,Galleon
+489,Pale Lantern,Frigate
+490,Bloodmoon Brig,Barque
+491,The Coral Phantom,Galleon
+492,Bloodwhale,Frigate
+493,The Grim Albatross,Galleon
+494,Abysswatcher,Sloop
+495,Serpent’s Bane,Galleon
+496,Thundertide,Frigate
+497,Shadeclaw Raider,Galleon
+498,Red Leviathan,Brigantine
+499,Bloodwhale,Frigate
+500,Bloodwhale,Frigate
