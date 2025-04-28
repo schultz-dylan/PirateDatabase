@@ -181,7 +181,7 @@ public class CreatePiratePage extends JFrame {
         createPirateButton.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
-                // Retrieve the username and password from the form
+
                 String fName = fNameText.getText();
                 String mName = mNameText.getText();
                 String lName = lNameText.getText();
@@ -211,8 +211,6 @@ public class CreatePiratePage extends JFrame {
                 	return;
                 }
                 
-                
-                // Create an instance of your DatabaseYMCA
                 PirateDatabase db = new PirateDatabase();
                 
                 try {
@@ -252,7 +250,7 @@ public class CreatePiratePage extends JFrame {
             model.addColumn("Ship");
             model.addColumn("Crew");
             
-            // Add rows to the model
+
             while (rs.next()) {
                 Object[] rowData = new Object[2];
 

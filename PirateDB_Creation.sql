@@ -23,7 +23,7 @@ CREATE TABLE Pirate (
     LastName VARCHAR(50) NOT NULL,
     Alias VARCHAR(50),
     Age TINYINT,
-    NetWorth INT NOT NULL,
+    NetWorth DECIMAL(12,2) NOT NULL,
     Role VARCHAR(25),
     
     Cid SMALLINT NOT NULL,
@@ -41,7 +41,7 @@ CREATE TABLE Island (
 
 CREATE TABLE Treasure (
     Tid MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT PRIMARY KEY,
-    Value VARCHAR(50) NOT NULL,
+    Value DECIMAL(12,2) NOT NULL,
     Location VARCHAR(50) NOT NULL,
     
     Iid MEDIUMINT NOT NULL,
@@ -56,7 +56,7 @@ CREATE TABLE Battle (
     Casualties SMALLINT NOT NULL,
     Winner VARCHAR(50) NOT NULL,
     Name VARCHAR(50),
-    LootAmount INT NOT NULL,
+    LootAmount DECIMAL(12,2) NOT NULL,
     Location VARCHAR(50) NOT NULL,
     Date DATE NOT NULL
 );

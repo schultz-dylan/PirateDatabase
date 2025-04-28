@@ -42,12 +42,32 @@ public class MainPage extends JFrame {
         startUpPane.add(newPirateButton);
         
         JButton newCrewButton = new JButton("Log a new Crew");
-        newCrewButton.setBounds(543, 151, 169, 23);
+        newCrewButton.setBounds(543, 136, 169, 23);
         startUpPane.add(newCrewButton);
         
         JButton newShipButton = new JButton("Log a new Ship");
-        newShipButton.setBounds(543, 203, 169, 23);
+        newShipButton.setBounds(543, 170, 169, 23);
         startUpPane.add(newShipButton);
+        
+        JButton newIslandButton = new JButton("Log a new Island");
+        newIslandButton.setBounds(543, 204, 169, 23);
+        startUpPane.add(newIslandButton);
+        
+        JButton newVisitButton = new JButton("Log a new Visit");
+        newVisitButton.setBounds(543, 238, 169, 23);
+        startUpPane.add(newVisitButton);
+        
+        JButton newTreasureButton = new JButton("Log a new Treasure");
+        newTreasureButton.setBounds(543, 272, 169, 23);
+        startUpPane.add(newTreasureButton);
+        
+        JButton newBattleButton = new JButton("Log a new Battle");
+        newBattleButton.setBounds(543, 306, 169, 23);
+        startUpPane.add(newBattleButton);
+        
+        JButton newParticipateButton = new JButton("Log a new Participation");
+        newParticipateButton.setBounds(543, 340, 169, 23);
+        startUpPane.add(newParticipateButton);
 
         newPirateButton.addActionListener(e -> {
             new CreatePiratePage();
@@ -59,6 +79,26 @@ public class MainPage extends JFrame {
         
         newShipButton.addActionListener(e -> {
             new CreateShipPage();
+        });
+        
+        newIslandButton.addActionListener(e -> {
+            new CreateIslandPage();
+        });
+        
+        newVisitButton.addActionListener(e -> {
+            new CreateVisitPage();
+        });
+        
+        newTreasureButton.addActionListener(e -> {
+            new CreateTreasurePage();
+        });
+        
+        newBattleButton.addActionListener(e -> {
+            new CreateBattlePage();
+        });
+        
+        newParticipateButton.addActionListener(e -> {
+            new CreateParticipatePage();
         });
 
         setVisible(true);

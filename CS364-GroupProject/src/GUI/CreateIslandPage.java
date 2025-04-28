@@ -21,16 +21,32 @@ import Database.PirateDatabase;
 
 import javax.swing.JTextArea;
 
-public class CreateCrewPage extends JFrame {
+public class CreateIslandPage extends JFrame {
 
     private static final long serialVersionUID = 1L;
     private JPanel startUpPane;
     
-    public CreateCrewPage() {
+    private String island = "<html>⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠻⢿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣦⣄⠙⣿⣿⣿⣇⣠⣶⣾⣿⣷⣶⣶⠄⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣷⣼⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠘⠛⠉⠉⠉⠁⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⠿⠛⢿⣿⣿⣿⣿⣟⠛⠻⢿⣷⣦⡀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡿⠁⠀⠀⢸⣿⣿⡿⠻⣿⣷⡀⠀⠉⠻⢷⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡿⠁⠀⠀⠀⠸⣿⡿⠁⠀⠈⢿⣇⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⠁⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠏⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⠀⢠⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⢀⣾⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠀⣼⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⢠⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⣼⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n"
+    		+ "⠀⠀⠀⠀⠈⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<html>";
+    
+    public CreateIslandPage() {
         setSize(1280, 720);
         setLocationRelativeTo(null);
         setResizable(false);
-        setTitle("Create a Crew");
+        setTitle("Create an Island");
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         
         startUpPane = new JPanel();
@@ -40,7 +56,7 @@ public class CreateCrewPage extends JFrame {
         setContentPane(startUpPane);
         
         JButton btnNewButton = new JButton("Create Crew");
-        btnNewButton.setBounds(548, 448, 156, 43);
+        btnNewButton.setBounds(546, 448, 156, 43);
         startUpPane.add(btnNewButton);
         
         JTextArea textArea = new JTextArea();
@@ -51,22 +67,34 @@ public class CreateCrewPage extends JFrame {
         textArea_1.setBounds(682, 283, 166, 22);
         startUpPane.add(textArea_1);
         
-        JLabel lblNewLabel = new JLabel("Crew's Name");
+        JLabel lblNewLabel = new JLabel("Island's Name");
+        lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
         lblNewLabel.setForeground(Color.WHITE);
-        lblNewLabel.setBounds(451, 258, 91, 14);
+        lblNewLabel.setBounds(404, 258, 166, 14);
         startUpPane.add(lblNewLabel);
         
-        JLabel lblMiddleName = new JLabel("Crew's Location");
+        JLabel lblMiddleName = new JLabel("Island's Location");
+        lblMiddleName.setHorizontalAlignment(SwingConstants.CENTER);
         lblMiddleName.setForeground(Color.WHITE);
-        lblMiddleName.setBounds(723, 258, 104, 14);
+        lblMiddleName.setBounds(682, 258, 166, 14);
         startUpPane.add(lblMiddleName);
         
-        JLabel lblANewCrew = new JLabel("A NEW CREW SAILS THE HIGH SEAS");
+        JLabel lblANewCrew = new JLabel("A NEW ISLAND HAS BEEN DISCOVERED");
         lblANewCrew.setFont(new Font("Tahoma", Font.PLAIN, 35));
         lblANewCrew.setHorizontalAlignment(SwingConstants.CENTER);
         lblANewCrew.setForeground(Color.WHITE);
-        lblANewCrew.setBounds(338, 55, 587, 98);
+        lblANewCrew.setBounds(10, 55, 1244, 98);
         startUpPane.add(lblANewCrew);
+        
+        JLabel lblNewLabel_1 = new JLabel(island);
+        lblNewLabel_1.setForeground(Color.WHITE);
+        lblNewLabel_1.setBounds(20, 0, 287, 357);
+        startUpPane.add(lblNewLabel_1);
+        
+        JLabel lblNewLabel_1_1 = new JLabel(island);
+        lblNewLabel_1_1.setForeground(Color.WHITE);
+        lblNewLabel_1_1.setBounds(977, 11, 287, 357);
+        startUpPane.add(lblNewLabel_1_1);
         
         btnNewButton.addMouseListener(new MouseAdapter() {
             @Override
@@ -94,13 +122,13 @@ public class CreateCrewPage extends JFrame {
                     c = db.getCrewByName(name);
                     
                     if(c.next()) {
-                    	JOptionPane.showMessageDialog(null, "A crew already sails with that name!");
+                    	JOptionPane.showMessageDialog(null, "A island already bears that name!");
                     	return;
                     }
                     
-                    db.insertCrew(name, location);
+                    db.insertIsland(name, location);
                     
-                    JOptionPane.showMessageDialog(null, "Crew Added Successfully");
+                    JOptionPane.showMessageDialog(null, "Island Added Successfully");
 
                 } catch (SQLException ex) {
                     ex.printStackTrace();
@@ -113,6 +141,4 @@ public class CreateCrewPage extends JFrame {
         
         setVisible(true);
     }
-    
-    
 }
