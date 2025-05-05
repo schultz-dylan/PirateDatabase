@@ -27,6 +27,7 @@ import Database.PirateDatabase;
 import javax.swing.JTextArea;
 import javax.swing.JTable;
 
+
 public class CreateTreasurePage extends JFrame {
 
     private static final long serialVersionUID = 1L;
@@ -36,6 +37,26 @@ public class CreateTreasurePage extends JFrame {
     DefaultTableCellRenderer centerRender;
     private ArrayList<Long> iids;
     private ArrayList<Long> pids;
+    
+    private String treasure = "<html>                            _.--.\r\n"
+    		+ "                        _.-'_:-'||\r\n"
+    		+ "                    _.-'_.-::::'||\r\n"
+    		+ "               _.-:'_.-::::::'  ||\r\n"
+    		+ "             .'`-.-:::::::'     ||\r\n"
+    		+ "            /.'`;|:::::::'      ||_\r\n"
+    		+ "           ||   ||::::::'     _.;._'-._\r\n"
+    		+ "           ||   ||:::::'  _.-!oo @.!-._'-.\r\n"
+    		+ "           \\'.  ||:::::.-!()oo @!()@.-'_.|\r\n"
+    		+ "            '.'-;|:.-'.&$@.& ()$%-'o.'\\U||\r\n"
+    		+ "              `>'-.!@%()@'@_%-'_.-o _.|'||\r\n"
+    		+ "               ||-._'-.@.-'_.-' _.-o  |'||\r\n"
+    		+ "               ||=[ '-._.-\\U/.-'    o |'||\r\n"
+    		+ "               || '-.]=|| |'|      o  |'||\r\n"
+    		+ "               ||      || |'|        _| ';\r\n"
+    		+ "               ||      || |'|    _.-'_.-'\r\n"
+    		+ "               |'-._   || |'|_.-'_.-'\r\n"
+    		+ "                '-._'-.|| |' `_.-'\r\n"
+    		+ "                    '-.||_/.-'<html>";
     
     public CreateTreasurePage() {
         setSize(1280, 720);
@@ -61,6 +82,7 @@ public class CreateTreasurePage extends JFrame {
         JTextArea locationText = new JTextArea();
         locationText.setBounds(172, 336, 166, 22);
         startUpPane.add(locationText);
+        
         
         JLabel lblNewLabel = new JLabel("Treasure Worth");
         lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);

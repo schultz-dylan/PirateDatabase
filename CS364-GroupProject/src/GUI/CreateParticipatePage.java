@@ -1,15 +1,10 @@
 package GUI;
 
 import java.awt.Color;
-import java.awt.Font;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.time.DateTimeException;
-import java.time.LocalDate;
 import java.util.ArrayList;
 
 import javax.swing.JButton;
@@ -27,8 +22,6 @@ import Database.PirateDatabase;
 import javax.swing.JTextArea;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import javax.swing.JComboBox;
-import javax.swing.JTextField;
 import javax.swing.JCheckBox;
 
 public class CreateParticipatePage extends JFrame {

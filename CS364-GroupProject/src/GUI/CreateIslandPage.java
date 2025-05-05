@@ -55,7 +55,7 @@ public class CreateIslandPage extends JFrame {
         startUpPane.setLayout(null);
         setContentPane(startUpPane);
         
-        JButton btnNewButton = new JButton("Create Crew");
+        JButton btnNewButton = new JButton("Create Island");
         btnNewButton.setBounds(546, 448, 156, 43);
         startUpPane.add(btnNewButton);
         
