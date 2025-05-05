@@ -1,7 +1,6 @@
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 
-import Database.PirateDatabase;
 import GUI.MainPage;
 
 public class Driver {
