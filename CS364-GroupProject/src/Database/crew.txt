@@ -1,0 +1,101 @@
+Cid,Name,Location
+1,The Black Tide,Bloodwake Bay
+2,Crimson Corsairs,Siren’s Cove
+3,The Daggerfangs,Dead Man’s Strait
+4,Bone Reef Marauders,Blackreef Lagoon
+5,The Storm Serpents,Leviathan’s Grave
+6,Ironfang Buccaneers,Whispering Tides
+7,The Scarlet Wraiths,Daggerjaw Shoals
+8,Drowned Ghosts,The Drowned Isles
+9,The Siren’s Howl,Stormwreck Atoll
+10,Bloodwake Raiders,Broken Mast Bay
+11,The Ashen Blades,Grimwater Sound
+12,Leviathan’s Bane,Devil’s Backbone Reef
+13,The Rusted Cutlasses,Rusted Anchor Haven
+14,Grimwater Gang,Phantom Shoals
+15,The Broken Compass,Hollowwave Gulf
+16,Cursed Horizon,The Cursed Channels
+17,The Silver Scourge,Ashen Depths
+18,Dead Man’s Grin,Shattered Compass Key
+19,The Voodoo Vultures,Skeleton Cove
+20,Salty Revenants,Shadowmist Isle
+21,Howling Skulls,Wraithwater Bay
+22,The Golden Kraken,Frostbite Strait
+23,Widowmakers of the Deep,Coralgrave Lagoon
+24,The Barnacle Brotherhood,Shipwreck Shoals
+25,Black Powder Pact,Bonefire Cay
+26,The Phantom Corsairs,Twilight Tides
+27,Coralblade Clan,Abyssal Maw Trench
+28,The Raging Tempest,Gallowglass Gulf
+29,Shattered Mast Marauders,Shrouded Reef
+30,The Crimson Albatross,Ironwake Harbor.
+31,Devil’s Backbone,Bloodwake Bay
+32,The Daggered Sirens,Siren’s Cove
+33,The Bitter Enders,Dead Man’s Strait
+34,No Quarter Company,Blackreef Lagoon
+35,The Tempest Wolves,Leviathan’s Grave
+36,Bloodmoon Marauders,Whispering Tides
+37,The Fathomless Few,Daggerjaw Shoals
+38,Gravedigger’s Crew,The Drowned Isles
+39,The Sunken Daggers,Stormwreck Atoll
+40,The Hollow Jollys,Broken Mast Bay
+41,Iron Anchor Alliance,Grimwater Sound
+42,Ghostwake Company,Devil’s Backbone Reef
+43,Blackfin Buccaneers,Rusted Anchor Haven
+44,The Shadowbound,Phantom Shoals
+45,The Maelstrom Men,Hollowwave Gulf
+46,Deadwater Drifters,The Cursed Channels
+47,The Twisted Compass,Ashen Depths
+48,Sable Corsairs,Shattered Compass Key
+49,The Brineborn,Skeleton Cove
+50,The Gallows Gulls,Shadowmist Isle
+51,Rustskull Raiders,Wraithwater Bay
+52,The Scourged Sails,Frostbite Strait
+53,The Midnight Corsairs,Coralgrave Lagoon
+54,The Bone Rats,Shipwreck Shoals
+55,Blood Reef Brotherhood,Bonefire Cay
+56,The Silent Maelstrom,Twilight Tides
+57,The Wretched Tide,Abyssal Maw Trench
+58,The Sunken Scepters,Gallowglass Gulf
+59,The Reefcursed,Shrouded Reef
+60,Black Reef Revenants,Ironwake Harbor.
+61,The Coral Crows,Bloodwake Bay
+62,The Howling Horizon,Siren’s Cove
+63,The Pale Cutlasses,Dead Man’s Strait
+64,Redwater Marauders,Blackreef Lagoon
+65,The Sea Scourge,Leviathan’s Grave
+66,Grimflag Corsairs,Whispering Tides
+67,The Abyssal Blades,Daggerjaw Shoals
+68,The Iron Reavers,The Drowned Isles
+69,Shipwreck Saints,Stormwreck Atoll
+70,Plaguewake Crew,Broken Mast Bay
+71,The Shrouded Dagger,Grimwater Sound
+72,Lanternjaw Buccaneers,Devil’s Backbone Reef
+73,The Ashen Kraken,Rusted Anchor Haven
+74,Broken Anchor Brotherhood,Phantom Shoals
+75,The Damned Dagger,Hollowwave Gulf
+76,The Saltborn Scoundrels,The Cursed Channels
+77,Frostwake Fleet,Ashen Depths
+78,Death’s Toll,Shattered Compass Key
+79,Saltfang Buccaneers,Skeleton Cove
+80,The Grimcurrent,Shadowmist Isle
+81,The Jaded Compass,Wraithwater Bay
+82,Deadlight Corsairs,Frostbite Strait
+83,Cracked Skull Marauders,Coralgrave Lagoon
+84,The Endless Wreck,Shipwreck Shoals
+85,Bloodsalt Brotherhood,Bonefire Cay
+86,The Gutter Sharks,Twilight Tides
+87,Black Coral Corsairs,Abyssal Maw Trench
+88,The Graveborn,Gallowglass Gulf
+89,Silverwave Pirates,Shrouded Reef
+90,The Firewater Gang,Ironwake Harbor.
+91,Crimson Reef Company,Bloodwake Bay
+92,Thunderjaw Corsairs,Siren’s Cove
+93,The Sunken Crossbones,Dead Man’s Strait
+94,Devil’s Moor Marauders,Blackreef Lagoon
+95,Red Tide Raiders,Leviathan’s Grave
+96,Broken Skull Buccaneers,Whispering Tides
+97,The Bleeding Horizon,Daggerjaw Shoals
+98,Serpent’s Wake,The Drowned Isles
+99,Ebonwake Company,Stormwreck Atoll
+100,The Shackled Souls,Broken Mast Bay

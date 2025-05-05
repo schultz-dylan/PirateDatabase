@@ -1,0 +1,100 @@
+Iid,Name,Location
+1,Shadow Isle,Bloodwake Bay
+2,Bloodstone Island,Ashen Depths
+3,The Whispering Key,Broken Mast Bay
+4,Skull Island,Shattered Compass Key
+5,Siren’s Rest,Hollowwave Gulf
+6,The Black Shore,Blackreef Lagoon
+7,Stormhaven Isle,Frostbite Strait
+8,Broken Helm Isle,Bloodwake Bay
+9,Lost Reef Island,Whispering Tides
+10,The Silent Archipelago,Coralgrave Lagoon
+11,Coral Haven,Bloodwake Bay
+12,Darkwater Cay,The Cursed Channels
+13,Dragon’s Claw Isle,Ironwake Harbor.
+14,Ironhold Isle,Phantom Shoals
+15,The Cursed Isle,Hollowwave Gulf
+16,The Sunken Crown,Skeleton Cove
+17,Kraken’s Nest,Stormwreck Atoll
+18,The Fogbound Isle,Ashen Depths
+19,Grimstone Island,Whispering Tides
+20,Deadman’s Bay,Twilight Tides
+21,Mistveil Isle,Wraithwater Bay
+22,The Forgotten Cay,The Cursed Channels
+23,Phantom Isle,Bonefire Cay
+24,Thunderclap Island,The Cursed Channels
+25,The Sable Isle,Stormwreck Atoll
+26,The Shattered Key,Wraithwater Bay
+27,Widow’s Isle,Stormwreck Atoll
+28,The Ebon Island,Twilight Tides
+29,Moonlit Isle,Shadowmist Isle
+30,The Emerald Shore,Phantom Shoals
+31,The Ashen Island,Devil’s Backbone Reef
+32,Scorpion Isle,Whispering Tides
+33,The Drowned Isles,Daggerjaw Shoals
+34,The Bitter Isle,Blackreef Lagoon
+35,Bleakwater Isle,Coralgrave Lagoon
+36,Tempest Isle,Devil’s Backbone Reef
+37,The Lost Archipelago,Bonefire Cay
+38,The Vengeful Isle,Ashen Depths
+39,Gloomshroud Isle,Gallowglass Gulf
+40,The Darkened Reef,Whispering Tides
+41,Saltbreeze Isle,Bloodwake Bay
+42,The Fanged Isle,Shattered Compass Key
+43,The Iron Coast,Shattered Compass Key
+44,The Forsaken Isle,Daggerjaw Shoals
+45,Skullcap Isle,Skeleton Cove
+46,The Tidal Bastion,Gallowglass Gulf
+47,Riptide Reef,Dead Man’s Strait
+48,Stormshadow Island,Broken Mast Bay
+49,The Hallowed Isles,The Drowned Isles
+50,Blackwater Cove,Grimwater Sound
+51,The Abyssal Island,Daggerjaw Shoals
+52,The Wraith Isle,Frostbite Strait
+53,Blight Isle,Dead Man’s Strait
+54,The Hollow Reef,The Drowned Isles
+55,Thunder Isle,The Drowned Isles
+56,Frostbite Island,Shrouded Reef
+57,The Forgotten Shore,Gallowglass Gulf
+58,The Flameclaw Isle,Devil’s Backbone Reef
+59,Bloodreef Island,Broken Mast Bay
+60,The Wrath Isle,Shipwreck Shoals
+61,Sea Witch Isle,Rusted Anchor Haven
+62,The Grim Isle,Grimwater Sound
+63,The Phantom Reef,Frostbite Strait
+64,Whitecliff Isle,Ironwake Harbor.
+65,The Voodoo Isle,Ironwake Harbor.
+66,Ghostwind Isle,The Drowned Isles
+67,The Chasm Isle,Stormwreck Atoll
+68,The Spire Isle,Ashen Depths
+69,Ironclad Isle,Ashen Depths
+70,Bonebreaker Island,Rusted Anchor Haven
+71,Lost Harbor Isle,Shadowmist Isle
+72,The Scourge Isle,Stormwreck Atoll
+73,Darkrift Isle,Whispering Tides
+74,Misty Haven,Siren’s Cove
+75,The Sea Serpent’s Nest,Broken Mast Bay
+76,The Blackstone Isle,Blackreef Lagoon
+77,The Roaring Isle,Ironwake Harbor.
+78,Saltgrave Isle,Skeleton Cove
+79,The Coral Tomb,Bloodwake Bay
+80,Serpent’s Spine Isle,Shattered Compass Key
+81,Sharkfang Isle,Blackreef Lagoon
+82,The Crimson Reef,Siren’s Cove
+83,Wolf’s Eye Isle,Gallowglass Gulf
+84,The Starless Isle,Bonefire Cay
+85,The Smuggler’s Isle,Wraithwater Bay
+86,The Forgotten Passage,Phantom Shoals
+87,Blackflame Isle,Devil’s Backbone Reef
+88,The Sunken Key,Blackreef Lagoon
+89,The Razor Isle,Shattered Compass Key
+90,The Graveyard Reef,Hollowwave Gulf
+91,The Eternal Isle,Daggerjaw Shoals
+92,The Specter’s Isle,Shattered Compass Key
+93,Flameheart Island,Phantom Shoals
+94,The Devil’s Cove,Blackreef Lagoon
+95,Ghostfire Island,Shadowmist Isle
+96,The Wailing Isle,Twilight Tides
+97,The Windward Isle,Shadowmist Isle
+98,Dragon’s Lair Island,Whispering Tides
+99,The Maw Isle,Phantom Shoals
