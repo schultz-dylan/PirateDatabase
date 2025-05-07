@@ -17,7 +17,7 @@ public class PirateDatabase {
 	private Connection connection;
 	
 	public PirateDatabase() {
-		String password = ""; //TODO: set this to your password
+		String password = "Caljam309!"; //TODO: set this to your password
 		url = url + password;
 	}
 	
@@ -212,7 +212,7 @@ public class PirateDatabase {
         String sql = "SELECT P.FirstName, P.MiddleName, P.LastName, P.Alias, Age, NetWorth, Role, C.Name, S.Name "
 			 	   + "FROM Pirate AS P INNER JOIN Crew AS C INNER JOIN Ship AS S "
 			 	   + "ON P.Cid = C.Cid AND P.Sid = S.Sid "
-			 	   + "WHERE P.FirstName LIKE ? AND P.MiddleName LIKE ? AND P.LastName LIKE ? AND P.Alias LIKE ?";
+			 	   + "WHERE P.FirstName LIKE ? AND COALESCE(P.MiddleName, '') LIKE ? AND P.LastName LIKE ? AND COALESCE(P.Alias, '') LIKE ?";
 		PreparedStatement pstmt = connection.prepareStatement(sql);
 		pstmt.setString(1, "%" + fname + "%");
 		pstmt.setString(2, "%" + mname + "%");
