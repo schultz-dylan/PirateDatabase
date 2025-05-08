@@ -90,9 +90,9 @@ public class MainPage extends JFrame {
         lblMakeSpecialQueries.setBounds(891, 113, 327, 52);
         startUpPane.add(lblMakeSpecialQueries);
         
-        JButton transferPirateButton = new JButton("Transfer Pirate to new Crew");
-        transferPirateButton.setBounds(458, 176, 393, 56);
-        startUpPane.add(transferPirateButton);
+        JButton updatePirateButton = new JButton("Update Pirate Info");
+        updatePirateButton.setBounds(458, 176, 393, 56);
+        startUpPane.add(updatePirateButton);
         
         JButton digForTreasureButton = new JButton("Dig for Treasure");
         digForTreasureButton.setBounds(458, 232, 393, 52);
@@ -180,6 +180,10 @@ public class MainPage extends JFrame {
         
         btnExperiencedShips.addActionListener(e -> {
             new ExperiencedShipsPage();
+        });
+        
+        updatePirateButton.addActionListener(e -> {
+            new UpdatePiratePage();
         });
         
         setVisible(true);

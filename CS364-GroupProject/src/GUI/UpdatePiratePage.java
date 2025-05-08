@@ -92,6 +92,10 @@ public class UpdatePiratePage extends JFrame {
         scrollPane.setBounds(734, 162, 448, 258);
         startUpPane.add(scrollPane);
         
+        JScrollPane scrollPane_1 = new JScrollPane();
+        scrollPane_1.setBounds(65, 162, 448, 258);
+        startUpPane.add(scrollPane_1);
+        
         JLabel lblSelectACrew = new JLabel("Select a Ship");
         lblSelectACrew.setHorizontalAlignment(SwingConstants.CENTER);
         lblSelectACrew.setForeground(Color.WHITE);
@@ -126,18 +130,23 @@ public class UpdatePiratePage extends JFrame {
         centerRender = new DefaultTableCellRenderer();
         centerRender.setHorizontalAlignment(SwingConstants.CENTER);
         
-        // Create the table
+        // Create the pirate table
         pirateTable = new JTable();
         pirateTable.setAutoCreateRowSorter(true);
         pirateTable.setShowVerticalLines(false);
         pirateTable.setRowHeight(30);
         pirateTable.setRowSelectionAllowed(true);
         
-        scrollPane.setViewportView(pirateTable);
+        scrollPane_1.setViewportView(pirateTable);
+
+        // Create the ship table
+        shipTable = new JTable();
+        shipTable.setAutoCreateRowSorter(true);
+        shipTable.setShowVerticalLines(false);
+        shipTable.setRowHeight(30);
+        shipTable.setRowSelectionAllowed(true);
         
-        JScrollPane scrollPane_1 = new JScrollPane();
-        scrollPane_1.setBounds(65, 162, 448, 258);
-        startUpPane.add(scrollPane_1);
+        scrollPane.setViewportView(shipTable);
         
         JLabel lblSelectAPirate = new JLabel("Select a Pirate");
         lblSelectAPirate.setHorizontalAlignment(SwingConstants.CENTER);
@@ -190,7 +199,57 @@ public class UpdatePiratePage extends JFrame {
             }
         });
         
+        addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                
+            	loadPirates(pirateNameText.getText(), crewNameText_1.getText());
+            }
+        });
         
+        pirateTable.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+            	
+            	// Get Row Selected
+            	int row = pirateTable.getSelectedRow();
+            	
+            	if (row < 0) {
+            		return;
+            	}
+            	
+            	loadShips("", "");
+            	
+            	long sid = 0;
+            	
+            	PirateDatabase db = new PirateDatabase();
+            	
+            	// Query database for info needed in pirate table, with pid
+            	try {
+            		db.connect();
+					ResultSet rs = db.getPirateInfoForUpdate(pids.get(row));
+					
+					if(rs.next()) {
+						
+						sid = rs.getLong(1);
+						ageSpinner.setValue(rs.getInt(2));
+						netWorthSpinner.setValue(rs.getDouble(3));
+						aliasText.setText(rs.getString(4));
+						roleText.setText(rs.getString(5));
+						
+					} else {
+						JOptionPane.showMessageDialog(null, "Internal database error");
+						return;
+					}
+				} catch (SQLException e1) {
+					e1.printStackTrace();
+				}
+            	
+            	int index = sids.indexOf(sid);
+            	
+            	shipTable.setRowSelectionInterval(index, index);
+            }
+        });
         
         updatePirateButton.addMouseListener(new MouseAdapter() {
             @Override
@@ -200,20 +259,26 @@ public class UpdatePiratePage extends JFrame {
                 String alias = aliasText.getText();
                 double netWorth = (double)netWorthSpinner.getValue();
                 String role = roleText.getText();
-                int row = table.getSelectedRow();
+                int prow = pirateTable.getSelectedRow();
+                int srow = pirateTable.getSelectedRow();
                 
                 if(role.length() < 1) {
                 	JOptionPane.showMessageDialog(null, "Enter in a Role");
+                	return;
+                }
+                
+                if(prow < 0 || srow < 0) {
+                	JOptionPane.showMessageDialog(null, "Select a Pirate and a Ship");
+                	return;
                 }
                 
                 PirateDatabase db = new PirateDatabase();
                 
                 try {
-                	ResultSet c;
                 	
                     db.connect();
                     
-                    db.updatePirate(fName, mName, lName, age, alias, netWorth, role, cids.get(row), sids.get(row));
+                    db.updatePirateInfo(pids.get(prow), age, netWorth, alias, role, cids.get(srow), sids.get(srow));
                     
                     JOptionPane.showMessageDialog(null, "Pirate Updated Successfully");
 
@@ -237,7 +302,7 @@ public class UpdatePiratePage extends JFrame {
         try {
         	db.connect();
         	
-        	ResultSet rs = db.getShipByNameAndCrew(pirateName, crewName);
+        	ResultSet rs = db.getPirateByNameAndCrew(pirateName, crewName);
             DefaultTableModel model = new DefaultTableModel();
             pids = new ArrayList<Long>();
             
@@ -247,12 +312,13 @@ public class UpdatePiratePage extends JFrame {
             
 
             while (rs.next()) {
-                Object[] rowData = new Object[2];
+                Object[] rowData = new Object[3];
 
                 rowData[0] = rs.getObject(1);
                 rowData[1] = rs.getObject(2);
+                rowData[2] = rs.getObject(3);
                 
-                pids.add(rs.getLong(3));
+                pids.add(rs.getLong(5));
 
                 model.addRow(rowData);
             }
